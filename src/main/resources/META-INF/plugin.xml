@@ -1,0 +1,12 @@
+<idea-plugin>
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+    </extensions>
+
+    <actions>
+
+    </actions>
+
+</idea-plugin>

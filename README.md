@@ -1,2 +1,5 @@
-# enderpearl
-IntelliJ IDEA plugin for the Recrafter ecosystem. Connects mods, packs, and tools into one seamless workspace — teleport anywhere in your project. Fwoomp!
+# Ender Pearl
+
+The ultimate UX companion for the Recrafter ecosystem. " +
+"Seamlessly bridging Crafter Gradle Plugin, Lapis KSP, and your workspace. " +
+"Fwoomp!

@@ -1,0 +1,8 @@
+.idea/*
+!.idea/dictionaries
+
+.intellijPlatform/
+.gradle/
+.kotlin/
+
+build/
